@@ -8,7 +8,7 @@ I always focus on writing code that easy to read, test, maintain and is observab
 
 ### 📈 Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![**Viktor**'s GitHub stats](https://github-readme-stats.vercel.app/api?username=viktormelker?count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Links
 
