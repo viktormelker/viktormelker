@@ -29,5 +29,5 @@ I always focus on writing code that easy to read, test, maintain and is observab
 
 ### 🔗 Links
 
-[Gitlab](https://gitlab.com/viktormelker)
-[Linkedin](https://www.linkedin.com/in/viktor-melker-b2100835/)
+- [Gitlab](https://gitlab.com/viktormelker)
+- [Linkedin](https://www.linkedin.com/in/viktor-melker-b2100835/)
