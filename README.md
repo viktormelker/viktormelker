@@ -8,7 +8,7 @@ I always focus on writing code that easy to read, test, maintain and is observab
 
 ### 📈 Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktormelker&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktormelker&count_private=true&theme=tokyonight&hide=c,c++)](https://github.com/anuraghazra/github-readme-stats)
 [![**Viktor**'s GitHub stats](https://github-readme-stats.vercel.app/api?username=viktormelker&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Links
