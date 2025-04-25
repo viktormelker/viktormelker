@@ -21,12 +21,6 @@ I always focus on writing code that easy to read, test, maintain and is observab
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
-### 📈 Github stats
-
-[![**Viktor**'s GitHub stats](https://github-readme-stats.vercel.app/api?username=viktormelker&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktormelker&count_private=true&theme=tokyonight&hide=c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🔗 Links
 
 - [Gitlab](https://gitlab.com/viktormelker)
